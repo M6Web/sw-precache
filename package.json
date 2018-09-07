@@ -1,13 +1,13 @@
 {
   "name": "sw-precache",
-  "version": "5.2.1",
+  "version": "5.2.1-m6web",
   "description": "Generates a service worker to cache your local App Shell resources.",
   "author": {
     "name": "Jeff Posnick",
     "email": "jeffy@google.com",
     "url": "https://jeffy.info"
   },
-  "homepage": "https://github.com/googlechrome/sw-precache",
+  "homepage": "https://github.com/M6Web/sw-precache",
   "main": "lib/sw-precache.js",
   "keywords": [
     "caching",
@@ -54,8 +54,8 @@
     "sw-toolbox": "^3.4.0",
     "update-notifier": "^2.3.0"
   },
-  "repository": "googlechrome/sw-precache",
-  "bugs": "https://github.com/googlechrome/sw-precache/issues",
+  "repository": "M6Web/sw-precache",
+  "bugs": "https://github.com/M6Web/sw-precache/issues",
   "license": "Apache-2.0",
   "scripts": {
     "test": "gulp test lint",
